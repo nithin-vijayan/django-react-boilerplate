@@ -1,7 +1,7 @@
 
 
 
-## Django ReactJs Boiler plate - With Hot reload
+## Django ReactJs Boiler plate - With Hot reload (Webpack Version 4)
 
 **NPM :**
 
