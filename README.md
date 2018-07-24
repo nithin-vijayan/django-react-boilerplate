@@ -3,7 +3,6 @@
 
 ## Django ReactJs Boiler plate - With Hot reload (Webpack Version 4)
 
-
 **NPM :**
 
     npm install # Installs dependencies from package.json
