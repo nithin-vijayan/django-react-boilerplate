@@ -83,13 +83,6 @@
 		    'STATS_FILE': os.path.join(BASE_DIR, 'webpack-stats-prod.json')
 		    }
 	    }
-    
-**App WSGI file configuration for serving static files in production**
-app/wsgi.py
-    
-    from whitenoise.django import DjangoWhiteNoise
-    
-    application = DjangoWhiteNoise(get_wsgi_application())
 
 **Building app bundles**
 
